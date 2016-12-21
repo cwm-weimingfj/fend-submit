@@ -1,0 +1,51 @@
+* {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+    color: #2d3c49;
+}
+
+a {
+    color: #2d3c49;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1.name {
+    margin-top: 0;
+    font-size: 3.5em;
+    font-weight: 100;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+h2.title {
+    font-weight: 100;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+section.featured-work {
+    margin-top: 40px;
+}
+
+h3.featured {
+    color: #7d97ad;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.intro p {
+    font-size: 1.5em;
+}
+
+.work-info {
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+footer {
+    text-align: right;
+}
