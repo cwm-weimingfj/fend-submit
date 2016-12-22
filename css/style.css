@@ -1,5 +1,5 @@
 * {
-    font-family: 'Open Sans', Helvetica, sans-serif;
+    font-family: "Open Sans", Helvetica, sans-serif;
     color: #2d3c49;
 }
 
@@ -7,11 +7,11 @@ a {
     color: #2d3c49;
 }
 
-.container {
+.container-fluid {
     margin-top: 20px;
 }
 
-h1.name {
+.name {
     margin-top: 0;
     font-size: 3.5em;
     font-weight: 100;
@@ -19,17 +19,17 @@ h1.name {
     text-align: right;
 }
 
-h2.title {
+.title {
     font-weight: 100;
     text-transform: uppercase;
     text-align: right;
 }
 
-section.featured-work {
+.featured-work {
     margin-top: 40px;
 }
 
-h3.featured {
+.featured {
     color: #7d97ad;
 }
 
